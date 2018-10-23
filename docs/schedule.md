@@ -7,18 +7,17 @@ title: Reading Schedule
 
 ## Week 1
 
-#### Mon. 3/12 **| Introductions + User-Centered Design**
-- _There will be a reading quiz on the following material._
-- READ: [Our Syllabus](../docs/syllabus.html)
-- READ: [Design Docs](../docs/designdocs.html)
-- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
-- Read/Watch something else about the Human-Centered Design Process
+#### Tue. 10/23 **| Introductions**
 
-#### Tue. 3/13 **| Need finding + Task Analysis**
+#### Thur. 10/25 **| Need finding + Task Analysis**
 - _There may be a quiz on this material. This is true for all future readings._
 - WATCH (12 minutes): [Ethnography: Ellen Isaacs at TEDxBroadway](https://www.youtube.com/watch?v=nV0jY5VgymI)
 - WATCH (4 minutes): [EXAMPLE: Contextual Inquiry: Workforce Mobility](https://www.youtube.com/watch?v=Gd5fA9UQDjE)
 - WATCH (3 minutes): [Insight Through Need-finding](http://ecorner.stanford.edu/videos/3135/Insight-Through-Need-Finding)
+- READ: [Our Syllabus](../docs/syllabus.html)
+- READ: [Design Docs](../docs/designdocs.html)
+- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
+- Read/Watch something else about the Human-Centered Design Process
 - READ: [Needfinding cheat sheet](reading/NeedFindingCribSheet.pdf)
 - READ: [Become Your Users](reading/becomeYourUsers_forrester.pdf)
 - READ: [Task Analysis Tips](reading/taskAnalysisTips.pdf)
@@ -26,7 +25,7 @@ title: Reading Schedule
 - READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 - Read/Watch something else about Need finding, Task Analysis, or Contextual Inquiry
 
-#### Thu. 3/15 **| Prototyping + Ideation**
+**Prototyping + Ideation**
 - READ: [How to be Creative by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html)
 - READ: [Ideation Overview (don't answer survey questions)](https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/)
 - READ: [How to Prototype by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-prototype.html)
@@ -34,7 +33,7 @@ title: Reading Schedule
 - READ (9 minutes): [Why you should be prototyping (Netflix)](https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848)
 - Read/Watch something else about prototyping or ideation
 
-#### Fri. 3/16 **| Human Abilities + Visual Design**
+**Human Abilities + Visual Design**
 - DUE: [Good/Bad Design](../designs/goodbad_assn.html)
 - LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
 - READ (80+ slides): [Human Abilities](../docs/HumanAbilities.pptx)
@@ -43,6 +42,7 @@ title: Reading Schedule
 - READ (7 minutes): [3 ways to improve your visual design skills](https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff)
 - Read/Watch something else about visual design
 
+<!--
 ## Week 2
 
 #### Mon. 3/19 **| Visual Design Project Cont.**
@@ -66,7 +66,7 @@ title: Reading Schedule
 
 ## Week 3
 
-#### Mon. 3/26 **| Interactive Vis**
+#### Thur. 3/26 **| Interactive Vis**
 - DUE: [Design for Others Design Doc](../designs/visual_assn.html)
 - _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE 450MB!)](http://web.cs.wpi.edu/~ltharrison/docs/isenberg_interaction.pptx)
 
@@ -190,3 +190,5 @@ _Hack on VR!_
 
 #### Tue (Fri). 5/1 **| Where do we go from here?**
 - Wrap-up: Last Day of the Term.
+
+-->
