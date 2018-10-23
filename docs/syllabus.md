@@ -47,6 +47,11 @@ Aside from internet sources, here are a few of the excellent books that we will 
 
 **I will give reading quizzes on assigned content.**
 
+### Keep up with course announcements and participate on the Slack channel
+Important announcements will be made via Slack, so make sure you're logging on regularly. This is also the best place to ask questions... and hopefully answer when you have some expertise to share! Information shared on Slack will include topics like assignment adjustments, and whether you can leave your laptops at home on a given day (most days you should bring your laptop or check one out from the [ATC](https://its.wpi.edu/service/Borrowing-Equipment)).
+
+Stay on top of the course communications!
+
 <!-- ### Reports on Design
 One of the goals of the course is for you to slowly begin to observe how people interact with the world around them, and how the way that we are designing our computers are helping or hurting us. As a result, I'll occasionally ask you to write about your analysis of usability testing or your experience in a design exercise or your observations on designs you see everyday.   
 - Every student should create an account on [Medium](http://medium.com)
@@ -62,29 +67,33 @@ HCI is a diverse field. It has computer scientists, psychologists, sociologists,
 ## Design Sprints | Course Overview
 The core of the work in this class will fall under the broad category of "Design Modules" - worth 50% of your overall grade. While some of the following will be done entirely in class, other modules will be done in teams with more formal feedback mechanisms. Included below are a set of examples of what these design sprints might emphasize. _The following list will likely change over the course of the term_. Your output for each of these modules will consist of a [design document](designdocs.html)
 
-- _Airport App Design_
-  - Topic: Human-Centered Design Process
-  - Tech: Paper!
+- _Good Design, Bad Design_
+  - Topic: Human-Centered Design
+  - Tech: Paper + Camera + Medium
 - _Design for Others_
   - Topic: Visual Design + Sketching
   - Tech: Prototyping software ([InVision](https://www.invisionapp.com/)), HTML/CSS
 - _Design for Understanding_
   - Topic: Data Visualization + Communication
   - Tech: [P5js](https://p5js.org/), [Vega (Web)](https://vega.github.io/)
-- _Design for Fun_
-  - Topic: Gesture Computing + Body sensing
-  - Tech: [Leap Motions](https://www.leapmotion.com/), Java
 - _Design for Tension_
   - Topic: Conversational Interfaces + Chat Bots
-  - Tech: [Motion.AI](https://www.motion.ai/), javascript
-- _Design for Wellbeing_
-  - Topic: Affective Computing + Intelligent User Interfaces
-  - Tech: [Affectiva SDK](https://www.affectiva.com/), javascript, CSS/html
+  - Tech: [Motion.AI](https://www.motion.ai/), JavaScript
+- _Design for Coding_
+  - Topic: Programming Interfaces + Live Coding
+  - Tech: Various live coding environments, [Codemirror](http://codemirror.net), JavaScript  
 - _Design for Another World_
   - Topic: Virtual Reality
   - Tech: [aFrame](https://aframe.io/), [Google Cardboard](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-sem&utm_medium=text&utm_term=GoogleCardboard-exact&utm_content=bkws&utm_campaign=googlecardboard&gclid=CjwKCAjwk4vMBRAgEiwA4ftLsxCassXwfHhp24CJTqFcdosIlhDnBawFAiKwCtq-abfGOuUEsWdbHxoCNuMQAvD_BwE)
-
-
+  
+<!--
+- _Design for Fun_
+  - Topic: Gesture Computing + Body sensing
+  - Tech: [Leap Motions](https://www.leapmotion.com/), Java
+  - _Design for Wellbeing_
+  - Topic: Affective Computing + Intelligent User Interfaces
+  - Tech: [Affectiva SDK](https://www.affectiva.com/), javascript, CSS/html
+-->
 
 ## Final Design Portfolio
 At the end of the term, each individual student will construct a website that acts as a design portfolio - linking to their work over the course of the term. In addition, you will write a _design manifesto_ that promotes a philosophy for design, as is evidenced by your work over the term. [Read more details here](manifesto.html).

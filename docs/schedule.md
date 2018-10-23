@@ -3,21 +3,31 @@ layout: page
 title: Reading Schedule
 ---
 
-**Updated:** March 12, 2018
+**Updated:** October 23, 2018
 
 ## Week 1
 
 #### Tue. 10/23 **| Introductions**
+- READ: [Our Syllabus](../docs/syllabus.html)
+- READ: [Design Docs](../docs/designdocs.html)
 
-#### Thur. 10/25 **| Need finding + Task Analysis**
-- _There may be a quiz on this material. This is true for all future readings._
+#### Thur. 10/25 **| Human Abilities + Visual Design**
+_There may be a quiz on this material. This is true for all future readings._
+
+- DUE: [Good/Bad Design](../designs/goodbad_assn.html)
+- LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
+- READ (80+ slides): [Human Abilities](../docs/HumanAbilities.pptx)
+- READ (1–1.5 hours): [Chapters 1–6: The Non-Designer's Design Book](https://proquest-safaribooksonline-com.ezproxy.wpi.edu/book/graphic-design/9780133966350/firstchapter#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMzM5NjYzNTAlMkZjaDAxX2h0bWwmcXVlcnk9) 
+- WATCH (7 min): [The Universal Arts of Graphic Design](https://www.youtube.com/watch?v=sTi5SNgxE3U)
+- READ (7 min): [How to Make Your Not-So-Great Visual Design Better](https://medium.com/facebook-design/how-to-make-your-not-so-great-visual-design-better-67972eee3825)
+- READ (7 minutes): [3 ways to improve your visual design skills](https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff)
+- Read/Watch something else about visual design
+
+**Needfinding & Task analysis**
+- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
 - WATCH (12 minutes): [Ethnography: Ellen Isaacs at TEDxBroadway](https://www.youtube.com/watch?v=nV0jY5VgymI)
 - WATCH (4 minutes): [EXAMPLE: Contextual Inquiry: Workforce Mobility](https://www.youtube.com/watch?v=Gd5fA9UQDjE)
 - WATCH (3 minutes): [Insight Through Need-finding](http://ecorner.stanford.edu/videos/3135/Insight-Through-Need-Finding)
-- READ: [Our Syllabus](../docs/syllabus.html)
-- READ: [Design Docs](../docs/designdocs.html)
-- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
-- Read/Watch something else about the Human-Centered Design Process
 - READ: [Needfinding cheat sheet](reading/NeedFindingCribSheet.pdf)
 - READ: [Become Your Users](reading/becomeYourUsers_forrester.pdf)
 - READ: [Task Analysis Tips](reading/taskAnalysisTips.pdf)
@@ -25,6 +35,10 @@ title: Reading Schedule
 - READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 - Read/Watch something else about Need finding, Task Analysis, or Contextual Inquiry
 
+<!--
+## Week 2
+
+#### Tuesday. 10/30 **| Visual Design Project Cont.**
 **Prototyping + Ideation**
 - READ: [How to be Creative by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html)
 - READ: [Ideation Overview (don't answer survey questions)](https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/)
@@ -32,18 +46,6 @@ title: Reading Schedule
 - READ (17 pages): [The anatomy of sketching (Bill Buxton)](reading/sketching_Buxton.pdf)
 - READ (9 minutes): [Why you should be prototyping (Netflix)](https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848)
 - Read/Watch something else about prototyping or ideation
-
-**Human Abilities + Visual Design**
-- DUE: [Good/Bad Design](../designs/goodbad_assn.html)
-- LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
-- READ (80+ slides): [Human Abilities](../docs/HumanAbilities.pptx)
-- WATCH (7 min): [The Universal Arts of Graphic Design](https://www.youtube.com/watch?v=sTi5SNgxE3U)
-- READ (7 min): [How to Make Your Not-So-Great Visual Design Better](https://medium.com/facebook-design/how-to-make-your-not-so-great-visual-design-better-67972eee3825)
-- READ (7 minutes): [3 ways to improve your visual design skills](https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff)
-- Read/Watch something else about visual design
-
-<!--
-## Week 2
 
 #### Mon. 3/19 **| Visual Design Project Cont.**
 - WATCH (10 min): [Jennifer Golbeck (TED Talk). The curly fry conundrum: Why social media "likes" say more than you might think](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think#t-15090)

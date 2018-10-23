@@ -5,7 +5,7 @@ exclude: true
 ---
 
 - **DUE:** Thursday, October 25th. 5:59 PM.
-- Before you start this assignment, make sure that you have already read [_Learning to See_](https://ia.net/know-how/learning-to-see)
+- Before you start this assignment, make sure that you have already read [_Learning to See_](https://ia.net/know-how/learning-to-see) and the first six chapters of [The Non-Designer's Design Book](https://proquest-safaribooksonline-com.ezproxy.wpi.edu/book/graphic-design/9780133966350/firstchapter#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMzM5NjYzNTAlMkZjaDAxX2h0bWwmcXVlcnk9).
 
 In this assignment, your objective is pretty straightforward: start training yourself to think about the design of things around you. Think carefully about how people interact with the physical or digital world. Is it good? Is it bad?
 

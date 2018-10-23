@@ -15,7 +15,7 @@ It's time to begin the design process. This first design sprint will force you t
 
 1. Visual Design
 2. Sketching for Ideation (using paper)
-3. Prototyping Tools (using [invision](https://www.invisionapp.com/) or [Adobe XD](https://www.adobe.com/products/xd.html))
+3. Prototyping Tools (using [invision](https://www.invisionapp.com/) or [Adobe XD](https://www.adobe.com/products/xd.html)). See the class Slack channel for a demo license for inVision.
 
 Typically, a *critical* portion of the user-centered design process is getting feedback from real users. In the interest of time, we won't be doing that in this (short) design sprint. However, it doesn't mean that you are ignoring their needs...
 
@@ -65,7 +65,6 @@ Being able to articulate the correct mood and/or tone for your demographic is cr
 - Consider the [design resources](../docs/resources.html) we have posted on our website. For example, if you can extract a color or two from your design board, there are tools that you can use to uncover complementary colors.
 
 **Output:** a set of colors, fonts, and general styles that you feel are appropriate for your user group. Consider explicitly putting these into your design doc to show the provenance of your stylistic decisions.
-
 
 ### Building your Website Prototype
 Now that you have your UI organization nailed down + a style guide... create your mobile website. To create an interactive prototype, we're going to using [invision](https://www.invisionapp.com/) - a prototyping, collaboration, & workflow platform. I have worked with the company to secure free accounts for you that will remain active until 6 months after you graduate. Please refer to our Slack group where I post the code you need to activate your free account. It might be a good idea to start with a tutorial.

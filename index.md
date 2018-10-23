@@ -7,10 +7,15 @@ layout: home
 
 ![Human-Centered Design Process](img/hci_banner.png)
 
+<!--
+For computer scientists, the word _design_ is too often used exclusively in the context of code and architecture. The result of this narrow perspective is that engineers have a habit of building complex, intricate products that are wonderfully functional, but never used. When they _are_ used, neglecting people in your design can lead to unexpected consequences that range from clumsiness to discrimination for individuals, groups, or cultures.
+
+In this course, we will study both people and technology to  understand the behavior that computers encourage or constrain. Through a variety of modalities (3D user interfaces, visualization, coding playgrounds, etc), we will deliberately practice processes that result in useful, usable, and maybe even inspirational computer interfaces. 
+-->
 ## Why the _Human_ is first in Human-Computer Interaction
 For computer scientists, the word _design_ is too often used exclusively in the context of code and architecture. The result of this narrow perspective is that engineers have a habit of building complex, intricate products that are wonderfully functional, but never used. When they _are_ used, neglecting people in your design can lead to unexpected consequences that range from clumsiness to discrimination for individuals, groups, or cultures.
 
-In this course, we will study both people and technology to  understand the behavior that computers encourage or constrain. Through a variety of modalities (chatbots, 3D user interfaces, visualization, etc), we will deliberately practice processes that result in useful, usable, and maybe even inspirational computer interfaces.  
+In this course, we will study both people and technology to  understand the behavior that computers encourage or constrain. Through a variety of modalities (3D user interfaces, visualization, coding playgrounds, etc), we will deliberately practice processes that result in useful, usable, and maybe even inspirational computer interfaces.  
 
 - **Who:** Prof. [Charlie Roberts](https://charlie-roberts.com)
 - **Where:** Salisbury Labs, 402 
