@@ -17,7 +17,7 @@ For computer scientists, the word _design_ is too often used exclusively in the 
 
 In this course, we will study both people and technology to  understand the behavior that computers encourage or constrain. Through a variety of modalities (3D user interfaces, visualization, coding playgrounds, etc), we will deliberately practice processes that result in useful, usable, and maybe even inspirational computer interfaces.  
 
-- **Who:** Prof. [Charlie Roberts](https://charlie-roberts.com)
+- **Who:** Prof. [Charlie Roberts](http://charlie-roberts.com)
 - **Where:** Salisbury Labs, 402 
 - **When:** 6:00–7:50, T-Th
 - **Teaching Assistants:** Joshua Bloom & Erden Oktay
