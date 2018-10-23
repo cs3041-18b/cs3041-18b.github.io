@@ -1,0 +1,347 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Design for Understanding</title>
+  <meta name="description" content="">
+
+  <link rel="stylesheet" href="/assets/main.css">
+  <link rel="canonical" href="http://localhost:4004/designs/datavis_assn.html">
+  <link rel="alternate" type="application/rss+xml" title="cs3041-18d-hci" href="/feed.xml">
+  
+  
+</head>
+
+
+  <script src="/js/common.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <body>
+
+    <header class="site-header" role="banner">
+
+  <div class="wrapper">
+    
+    
+    <a class="site-title" href="/">cs3041-18d-hci</a>
+
+    
+      <nav class="site-nav">
+        <input type="checkbox" id="nav-trigger" class="nav-trigger" />
+        <label for="nav-trigger">
+          <span class="menu-icon">
+            <svg viewBox="0 0 18 15" width="18px" height="15px">
+              <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+              <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+              <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+            </svg>
+          </span>
+        </label>
+
+        <div class="trigger">
+          
+            
+            
+              
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+              
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+              
+              <a class="page-link" href="/docs/schedule.html">Reading Schedule</a>
+              
+            
+          
+            
+            
+              
+              <a class="page-link" href="/docs/syllabus.html">Syllabus</a>
+              
+            
+          
+            
+            
+          
+            
+            
+          
+            
+            
+              
+            
+          
+            
+            
+              
+            
+          
+        </div>
+      </nav>
+    
+  </div>
+</header>
+
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        <article class="post">
+  
+  <script src="/js/common.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <header class="post-header">
+    <h1 class="post-title">Design for Understanding</h1>
+  </header>
+  <div class="post-content">
+    <ul>
+  <li><strong>Group size:</strong> Teams of 4 (likely working pairs)</li>
+  <li><strong>Demo Day:</strong> 3/30 <em>in class</em></li>
+  <li><strong>Design Doc Due:</strong> 4/2, 11:59 PM</li>
+</ul>
+
+<h2 id="overview">Overview</h2>
+<p>Mapping data to visual features is a powerful method for communicating information by leveraging the rapid perceptual pathways in our brain.  In this design sprint, you will use visual methods to communicate data - but for different end goals. Your job is to use two different lenses to approach the same dataset:</p>
+
+<ul>
+  <li><strong>Clear communication and reasoning:</strong> In this framing, you can assume that you have the user’s attention and that they do not need training in traditional charts. Use your knowledge of perception + data representation to construct a series of graphs that give an in-depth, unbiased, clear portrait of your data.</li>
+  <li><strong>Persuasive communication and storytelling:</strong> In this framing, your goal is to represent the data (visually, through audio, through interaction) in the most <em>compelling</em> way possible. What will have the most long-lasting impact on users? What will they <em>remember</em>?</li>
+</ul>
+
+<p>Since you’ll be working in teams of four (4) for this project, I recommend that you split your team into pairs. However, depending on your design, you may choose to allocate your resources in the way you see best.</p>
+
+<h3 id="choose-a-dataset">Choose a Dataset</h3>
+<p>Before you begin, choose a dataset. While you may use any dataset, be aware that cleaning the datasets into a usable format can be a major headache. You can use any dataset that you find online. Here are a few good starting points.</p>
+
+<ul>
+  <li><a href="https://think.cs.vt.edu/corgis/"><em>CORGIS (The Collection of Really Great, Interesting, Situated Datasets)</em></a>: cleaned, well-organized datasets that should be very simple to load into your program.</li>
+  <li><a href="https://github.com/fivethirtyeight/data"><em>Datasets underlying FiveThirtyEight stories</em></a>: Mostly cleaned, but may come in different formats.</li>
+  <li><a href="https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk"><em>Data is Plural newsletter</em></a>: fascinating datasets, but may not be cleaned/curated</li>
+</ul>
+
+<h3 id="your-technology">Your Technology</h3>
+<p>Both are valuable perspectives, and there are tradeoffs between the two. To help match your tools with your objectives, we’ll use two.</p>
+
+<ul>
+  <li>
+    <p><a href="https://vega.github.io/vega/"><strong>Vega</strong></a> or <a href="https://vega.github.io/vega-lite/"><strong>Vega-Lite:</strong></a> These are both templating tools that sit on top of the very popular d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction (<em>recommended</em>).</p>
+  </li>
+  <li>
+    <p><a href="https://p5js.org/"><strong>P5js</strong></a>: p5js is an expressive, accessible javascript library that enables pixel-level control. While it is more difficult to construct basic charts than vega or vega-lite, it empowers more creative interpretations of data that are either more abstract or that incorporate sound.</p>
+  </li>
+</ul>
+
+<h3 id="your-two-portraits">Your Two Portraits</h3>
+
+<ul>
+  <li>
+    <p><em>For Clear Communication:</em> You should construct a series of graphs that tell the story of the data. The properties of the data should align with your chart choice. Together, your charts (<em>AT LEAST</em> 3) should explore the data from different perspectives. For example, <a href="http://square.github.io/crossfilter/">Airline on-time performance</a>. While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.</p>
+  </li>
+  <li>
+    <p><em>For Persuasion:</em> There are very few guidelines here. I would encourage you to be creative and optimize for impact. For example, here is a visual/audio interpretation of data that I created (note: you need audio): <a href="https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America">15 Years of Mass Shootings in America</a>.</p>
+  </li>
+</ul>
+
+<h3 id="your-design-process">Your Design Process</h3>
+<p>Before you got to this class, you should have read about the <a href="http://fds.design/">five design-sheet (FdS)</a> approach for information visualization. You should walk through <a href="http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf">all five stages</a> of FdS. Make sure to get feedback from other students in the class as part of your design process!</p>
+
+<blockquote>
+  <p>Over the course of the term, I am going to give fewer and fewer detailed instructions about how to run your design process. This is intentional! As we become more familiar with it, I expect you to be able to apply it yourself to any new technological domain</p>
+</blockquote>
+
+<h3 id="build-it">Build it.</h3>
+<p>Just build it. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That’s okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.</p>
+
+<h2 id="deliverables">Deliverables</h2>
+<ul>
+  <li>As always: Your design reflection as a Medium blog post. Like the last assignment, <strong>you do not need a demo video</strong>
+    <ul>
+      <li>Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.</li>
+    </ul>
+  </li>
+  <li>Both of your designs should be hosted on WPI’s servers with publicly accessible links. These links should be clearly included into your design reflection.</li>
+</ul>
+
+<hr />
+<h2 id="some-tech-tips">Some Tech Tips</h2>
+<p>Over the past summer, I had a colleague complete each of these assignments to help me determine where students might encounter problems. From this project on, I will include her notes on the tech you’ll be using.</p>
+
+<h3 id="getting-started-creating-a-website">Getting Started: Creating a website</h3>
+<p><em>If you’ve never hosted a website on WPI’s Linux servers before, start by following the steps <a href="https://its.wpi.edu/Article/Create-a-Personal-or-Group-Website-at-WPI">here</a>.</em></p>
+
+<hr />
+
+<h2 id="tips-for-getting-data-into-p5js">Tips for Getting Data into p5js</h2>
+
+<h3 id="getting-started">Getting started</h3>
+<ol>
+  <li>Download the <a href="https://p5js.org/download/">complete p5.js library</a> and unzip the file.</li>
+  <li>Go through <a href="https://p5js.org/get-started/">this</a> ~2 minute tutorial. It’s extremely helpful and even if you already know what you’re doing you get to make a pretty fun demo and you’ll need the documents later on in the assignment.</li>
+</ol>
+
+<h3 id="creating-a-data-table">Creating a data table</h3>
+<ol>
+  <li>Once you’ve chosen a dataset to work with, download the data as a <code class="highlighter-rouge">.csv</code> file and save it in your working directory.
+    <ul>
+      <li>To make life easier, use the empty-example folder from the tutorial as your working directory and work out of the index.html and sketch.js files within it.</li>
+    </ul>
+  </li>
+  <li>Delete the code in your sketch.js. Replace it with the the code found <a href="https://p5js.org/reference/#/p5/loadTable">here</a>.
+    <ul>
+      <li>This just makes it so we don’t have to create an entirely new file and reconnect all the documents.</li>
+    </ul>
+  </li>
+  <li>In the third line of actual code (not including comments) replace <code class="highlighter-rouge">"assets/mammals.csv"</code> with the file path to the .csv file you’re using.
+    - Your third line of code should now look something like this:
+    <code class="highlighter-rouge">table = loadTable("FILENAME.csv", "csv", "header")</code></li>
+  <li>Look over the sketch.js example I provided. It’s marked it up with comprehensive explanations and places you need to change the code around. Make sure you read over it before proceeding to the next step.
+    - You can try running it with your
+    index.html file if you want to see it in action.</li>
+  <li>Now that you’ve read how, in your sketch.js code change <code class="highlighter-rouge">"name"</code> in the line <code class="highlighter-rouge">print(table.getColumn("name"));</code> to the column you’re trying to get (if you haven’t already).</li>
+</ol>
+
+<h3 id="viewing-your-table">Viewing your table</h3>
+<ol>
+  <li>Run your index.html document on a web browser</li>
+  <li>Open up developer tools
+    - <em><a href="https://www.lifewire.com/web-browser-developer-tools-3988965">This article</a> shows how to open the developer toolbox on any browser</em></li>
+  <li>Click on the “javascript console” tab in your developer toolbox (might just be “console” on some browsers).</li>
+  <li>You should now be able to see the “printed” statements from your sketch.js document.</li>
+</ol>
+
+<h3 id="build-your-story">Build your story</h3>
+<p>The options here are too diverse to describe in a single point. However, if you want to start with existing code, see my <a href="https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America">15 Years of Mass Shootings in America</a> github repository.</p>
+
+<hr />
+
+<h2 id="tips-for-vega-lite-or-vega">Tips for Vega Lite (or Vega)</h2>
+
+<h3 id="introducing-vega-lite">Introducing Vega-Lite:</h3>
+<ol>
+  <li>Open up Vega-Lite’s <a href="https://vega.github.io/new-editor/?mode=vega-lite">online editor</a> to work out of</li>
+  <li>Look through the charts and graphs we’re given (found in the dropdown menu) to see the different possibilities for visualizing data with Vega-Lite.</li>
+  <li>Go through their first two <a href="https://vega.github.io/vega-lite/tutorials/getting_started.html#embed">tutorials</a> titled “The Data” and “Encoding Data with Marks”. Code along with the tutorial in order to get a better feel for the library. Some helpful tips:
+    <ol>
+      <li>Entire code should be wrapped in <code class="highlighter-rouge">{}</code>.</li>
+      <li>Almost every value you enter must be wrapped in <code class="highlighter-rouge">""</code>– excludes punctuation and numerical values in the <code class="highlighter-rouge">data: values</code> field.</li>
+      <li>The <code class="highlighter-rouge">encoding</code> field is where you’ll enter the bulk of the information about your dataset. Most importantly the x- and y-axis data go here. <em><a href="https://vega.github.io/vega-lite/docs/encoding.html#data-type">Learn about the different data types here</a></em>.</li>
+      <li>Create a legend using <a href="https://vega.github.io/vega-lite/docs/legend.html">this documentation</a>.</li>
+    </ol>
+  </li>
+  <li>When you’re done going through the tutorial, use the data found in <a href="https://github.com/plotly/datasets/blob/master/2014_apple_stock.csv">this</a> csv file to create a chart or graph.
+    <ul>
+      <li>To use data from an online link, replace <code class="highlighter-rouge">"data": { "values": [..] },</code> with <br /> <code class="highlighter-rouge">"data": { "url": "URL", "format": {"type": "TYPE"} },</code> where <code class="highlighter-rouge">TYPE</code> is the type of file used (csv in our case).</li>
+      <li>When you’re entering the x- and y-axis “fields”, instead of typing <code class="highlighter-rouge">a</code> and <code class="highlighter-rouge">b</code> you’ll type in the names of the columns you’d like to display the data for. In this example there are only two columns so your x field would be “AAPL_x” and your y-field would be “AAPL_y”.</li>
+    </ul>
+  </li>
+  <li>Once you finish playing around with your chart or feel like you understand how the code works, move on to the next task.</li>
+</ol>
+
+<h3 id="publishing-your-visualization">Publishing your Visualization:</h3>
+<ol>
+  <li>Once you’re diagram is finished open the <code class="highlighter-rouge">index.html</code> in the <code class="highlighter-rouge">public_html</code> folder that you created earlier in a text editor.</li>
+  <li>Delete anything that’s already in the file and use the code given <a href="https://vega.github.io/vega-lite/tutorials/getting_started.html#embed">here</a> (if your computer isn’t already there, go to the section titled “Publish your Visualization Online”) to guide you in adding your chart or graph to your webpage.
+    <ul>
+      <li>Don’t forget to include <code class="highlighter-rouge">var vlSpec = {</code> before entering your diagram code as well as the optional code for vega-lite that we need <code class="highlighter-rouge">var opt = {"mode": "vega-lite"};</code> towards the bottom.</li>
+    </ul>
+  </li>
+  <li>Once completed, you should be able to see your diagram</li>
+</ol>
+
+  </div>
+
+</article>
+
+      </div>
+    </main>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">cs3041-18d-hci</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col footer-col-1">
+        <ul class="contact-list">
+          <li>
+            
+              cs3041-18d-hci
+            
+            </li>
+            
+            <li><a href="mailto:cs3041-staff@cs.wpi.edu">cs3041-staff@cs.wpi.edu</a></li>
+            
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-2">
+        <ul class="social-media-list">
+          
+          <li>
+            <a href="https://github.com/cs3041-18d"><span class="icon icon--github"><svg viewBox="0 0 16 16" width="16px" height="16px"><path fill="#828282" d="M7.999,0.431c-4.285,0-7.76,3.474-7.76,7.761 c0,3.428,2.223,6.337,5.307,7.363c0.388,0.071,0.53-0.168,0.53-0.374c0-0.184-0.007-0.672-0.01-1.32 c-2.159,0.469-2.614-1.04-2.614-1.04c-0.353-0.896-0.862-1.135-0.862-1.135c-0.705-0.481,0.053-0.472,0.053-0.472 c0.779,0.055,1.189,0.8,1.189,0.8c0.692,1.186,1.816,0.843,2.258,0.645c0.071-0.502,0.271-0.843,0.493-1.037 C4.86,11.425,3.049,10.76,3.049,7.786c0-0.847,0.302-1.54,0.799-2.082C3.768,5.507,3.501,4.718,3.924,3.65 c0,0,0.652-0.209,2.134,0.796C6.677,4.273,7.34,4.187,8,4.184c0.659,0.003,1.323,0.089,1.943,0.261 c1.482-1.004,2.132-0.796,2.132-0.796c0.423,1.068,0.157,1.857,0.077,2.054c0.497,0.542,0.798,1.235,0.798,2.082 c0,2.981-1.814,3.637-3.543,3.829c0.279,0.24,0.527,0.713,0.527,1.437c0,1.037-0.01,1.874-0.01,2.129 c0,0.208,0.14,0.449,0.534,0.373c3.081-1.028,5.302-3.935,5.302-7.362C15.76,3.906,12.285,0.431,7.999,0.431z"/></svg>
+</span><span class="username">cs3041-18d</span></a>
+
+          </li>
+          
+
+          
+        </ul>
+      </div>
+
+      <div class="footer-col footer-col-3">
+        <!--<p></p>-->
+        Base for HCI, D-term 2018 offering @WPI.
+        Problems with this webpage?
+        <a id="file-bug-anchor" href="#">File a Bug</a> or
+        <a id="pull-request-anchor" href="#">Suggest a Fix</a>.
+      </div>
+    </div>
+
+  </div>
+
+  <script>
+      runMainScript();
+  </script>
+
+</footer>
+
+
+  </body>
+
+</html>
