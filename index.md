@@ -20,6 +20,8 @@ In this course, we will study both people and technology to  understand the beha
 - **Who:** Prof. [Charlie Roberts](https://charlie-roberts.com)
 - **Where:** Salisbury Labs, 402 
 - **When:** 6:00–7:50, T-Th
+- **Teaching Assistants:** Joshua Bloom & Erden Oktay
+- **Email Contact**: [cs3041-staff@cs.wpi.edu](mailto:cs3041-staff@cs.wpi.edu)
 
 ## Resources
 <!-- 
@@ -28,10 +30,11 @@ In this course, we will study both people and technology to  understand the beha
 - [Design Feedback Form](https://goo.gl/forms/OuwJuS3ELupkHFgy2)
 - [Team Reflection Form](https://goo.gl/forms/4vpDLMoqeSCxr5LF2)
 -->
+
 - [Course Syllabus](docs/syllabus.html)
 - [Reading Schedule](docs/schedule.html)
 - [Design Doc Instructions](docs/designdocs.html)
-- [Slack Group](https://cs3041-18b.slack.com/) \| [Join](https://join.slack.com/t/cs3041-18d/shared_invite/enQtMzI3ODg5MTY5MTU5LTA4ODU2YjA0ZDdhN2E5YzYyZDM0YjI3NjA1ZDhjOTQ2YjZhMWVhYjM5MjNjOTE4OGU1ODExMWFjYjYxMDBmMDQ)
+- [Slack Group](https://cs3041-18b.slack.com/) \| [Join](https://join.slack.com/t/cs3041-18b/shared_invite/enQtNDYzMzcxNDMyNTAyLWJhYzIwZTAxMTVkNDc1NzcxYTViNjc2NDNhMTQ4MmM2MmNiZGZjN2Q0OTI3ZjA2MjQ3ODMzZWUyODczODYwNjE)
 - [Design Resources](docs/resources.html)
 
 ## Designing
@@ -50,5 +53,4 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 -->
 
 ## Attribution
-This course is adapted from Prof. Lane Harrisons class at WPI, which was in turn adapted from Prof. Evan Peck's HCI course at Bucknell University.
-Thanks Lane & Evan!
+This course is adapted from Prof. Lane Harrison's class at WPI, which was in turn adapted from Prof. Evan Peck's HCI course at Bucknell University. Thanks to Lane & Evan for making these materials available!

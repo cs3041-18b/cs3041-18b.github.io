@@ -7,15 +7,15 @@ exclude: true
 - **DUE:** Thursday, October 25th. 5:59 PM.
 - Before you start this assignment, make sure that you have already read [_Learning to See_](https://ia.net/know-how/learning-to-see) and the first six chapters of [The Non-Designer's Design Book](https://proquest-safaribooksonline-com.ezproxy.wpi.edu/book/graphic-design/9780133966350/firstchapter#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMzM5NjYzNTAlMkZjaDAxX2h0bWwmcXVlcnk9).
 
-In this assignment, your objective is pretty straightforward: start training yourself to think about the design of things around you. Think carefully about how people interact with the physical or digital world. Is it good? Is it bad?
+In this assignment, your objective is pretty straightforward: start training yourself to think about the design of things around you. Think carefully about how people interact with the digital world. Is it good? Is it bad?
 
 Sometimes these things are obvious, but other times, it turns out that we've adapted our behavior to bad design. For us, clumsy becomes normal (for example, WPI's Banner Web). So take the time to look at interactions with a new eye. Are they _really_ good? Are they _actually_ easy to use?
 
 ## Assignment
-- Find 1 example of good design and 1 example of bad design on WPI's campus or website. Take pictures.
+- Find 1 example of good design and 1 example of bad design on WPI's website. Take screenshots.
 - For each design (good and bad), create a new Medium blog post.
 - For each post, explain why you chose this design. Include pictures to tell the story. Think about who uses this design, when they are using it, and why they are using it.
-- Reflect on the design - what is it about this design that makes it good (or bad)? You might not necessarily be able to articulate this clearly at this point in the course... that's okay! Try your best. Is it easy to use? Does it make people feel good?
+- Reflect on the design - what is it about this design that makes it good (or bad)? You might not necessarily be able to articulate this clearly at this point in the course... that's okay! Try your best, and incorporate terminology / ideas from the readings when you can(like CRAP). Is the design easy to use? How does it make users feel?
 
 ## Deliverables
 - Post the link of each Medium post along with your name on our [submission page](https://docs.google.com/spreadsheets/d/1_-c52ou3mpTM-5WZWA72Un6ohm9ZPpca2NkV5ujLrBU/edit?usp=sharing). Please try not to read any other student's links until after the due date. All future submission links will be listed on the homepage only.

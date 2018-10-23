@@ -6,7 +6,7 @@ title: Syllabus
 - **Instructor:** [Charlie Roberts](http://charlie-roberts.com)
 - **Office:** Fuller B24B (in IMGD suite)
 - **Email:** <cdroberts@wpi.edu>
-- **Office Hours:** Wednesday & Thursday, 2–4 PM. Try to make it to my listed office hours _first_. If you have conflicts, email me and propose a time that works for you. While I am going to encourage interaction on Slack first and foremost for questions, I generally respond quickly to emails.
+- **Office Hours:** Thursday, 3–5 PM. Try to make it to my listed office hours _first_. If you have a conflict with that time, direct message me on Slack with a few alternative times that work for you. Appointments are generally for discussing grades and course progress; for technical questions / assignment questions please use the public Slack channels so that everyone can benefit from the discourse. Finally, I am always excited to take appointments with students interested in doing research / projects with me (independent study, MQPs); come say hi! 
 - **Course Website:** <https://cs3041-18b.github.io/>
 - **Slack site:** [https://cs3041-18b.slack.com](https://join.slack.com/t/cs3041-18b/shared_invite/enQtNDYzMzcxNDMyNTAyLWJhYzIwZTAxMTVkNDc1NzcxYTViNjc2NDNhMTQ4MmM2MmNiZGZjN2Q0OTI3ZjA2MjQ3ODMzZWUyODczODYwNjE)
 
