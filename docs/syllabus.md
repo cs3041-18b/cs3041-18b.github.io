@@ -101,7 +101,6 @@ The core of the work in this class will fall under the broad category of "Design
 ## Final Design Portfolio
 At the end of the term, each individual student will construct a website that acts as a design portfolio - linking to their work over the course of the term. In addition, you will write a _design manifesto_ that promotes a philosophy for design, as is evidenced by your work over the term. [Read more details here](manifesto.html).
 
-
 ## Grading Breakdown
 - **Participation and Critique:** 20%
 - **Modules:** 50%

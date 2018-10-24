@@ -17,14 +17,18 @@ _There may be a quiz on this material. This is true for all future readings._
 - DUE: [Good/Bad Design](../designs/goodbad_assn.html)
 - LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
 - READ (80+ slides): [Human Abilities](../docs/HumanAbilities.pptx)
+- READ: [_Learning to See_](https://ia.net/know-how/learning-to-see)
+- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
 - READ (1–1.5 hours): [Chapters 1–6: The Non-Designer's Design Book](https://proquest-safaribooksonline-com.ezproxy.wpi.edu/book/graphic-design/9780133966350/firstchapter#X2ludGVybmFsX0h0bWxWaWV3P3htbGlkPTk3ODAxMzM5NjYzNTAlMkZjaDAxX2h0bWwmcXVlcnk9) 
-- WATCH (7 min): [The Universal Arts of Graphic Design](https://www.youtube.com/watch?v=sTi5SNgxE3U)
 - READ (7 min): [How to Make Your Not-So-Great Visual Design Better](https://medium.com/facebook-design/how-to-make-your-not-so-great-visual-design-better-67972eee3825)
 - READ (7 minutes): [3 ways to improve your visual design skills](https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff)
-- Read/Watch something else about visual design
+- WATCH (7 min): [The Universal Arts of Graphic Design](https://www.youtube.com/watch?v=sTi5SNgxE3U)
+
+<!--
+## Week 2
 
 **Needfinding & Task analysis**
-- READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
+
 - WATCH (12 minutes): [Ethnography: Ellen Isaacs at TEDxBroadway](https://www.youtube.com/watch?v=nV0jY5VgymI)
 - WATCH (4 minutes): [EXAMPLE: Contextual Inquiry: Workforce Mobility](https://www.youtube.com/watch?v=Gd5fA9UQDjE)
 - WATCH (3 minutes): [Insight Through Need-finding](http://ecorner.stanford.edu/videos/3135/Insight-Through-Need-Finding)
@@ -34,9 +38,6 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ: [How to Understand Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html)
 - READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 - Read/Watch something else about Need finding, Task Analysis, or Contextual Inquiry
-
-<!--
-## Week 2
 
 #### Tuesday. 10/30 **| Visual Design Project Cont.**
 **Prototyping + Ideation**
