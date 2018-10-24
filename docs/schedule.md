@@ -15,7 +15,6 @@ title: Reading Schedule
 _There may be a quiz on this material. This is true for all future readings._
 
 - DUE: [Good/Bad Design](../designs/goodbad_assn.html)
-- LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
 - READ (80+ slides): [Human Abilities](../docs/HumanAbilities.pptx)
 - READ: [_Learning to See_](https://ia.net/know-how/learning-to-see)
 - READ (14 pages): Excerpt from:  [Don Norman's "The Design of Everyday Things"](reading/DesignThinking_DonNorman.pdf)
@@ -38,6 +37,7 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ: [How to Understand Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html)
 - READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 - Read/Watch something else about Need finding, Task Analysis, or Contextual Inquiry
+- LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
 
 #### Tuesday. 10/30 **| Visual Design Project Cont.**
 **Prototyping + Ideation**
