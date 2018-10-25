@@ -23,10 +23,10 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ (7 minutes): [3 ways to improve your visual design skills](https://uxdesign.cc/3-ways-to-improve-your-visual-design-skills-fa9dc8e583ff)
 - WATCH (7 min): [The Universal Arts of Graphic Design](https://www.youtube.com/watch?v=sTi5SNgxE3U)
 
-<!--
+
 ## Week 2
 
-**Needfinding & Task analysis**
+#### Tuesday. 10/30 **| Needfinding + Task analysis**
 
 - WATCH (12 minutes): [Ethnography: Ellen Isaacs at TEDxBroadway](https://www.youtube.com/watch?v=nV0jY5VgymI)
 - WATCH (4 minutes): [EXAMPLE: Contextual Inquiry: Workforce Mobility](https://www.youtube.com/watch?v=Gd5fA9UQDjE)
@@ -37,9 +37,8 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ: [How to Understand Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-understand-problems.html)
 - READ: [How to Define Problems by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-define-problems.html)
 - Read/Watch something else about Need finding, Task Analysis, or Contextual Inquiry
-- LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
 
-#### Tuesday. 10/30 **| Visual Design Project Cont.**
+
 **Prototyping + Ideation**
 - READ: [How to be Creative by Andy Ko](http://faculty.washington.edu/ajko/books/design-methods/how-to-be-creative.html)
 - READ: [Ideation Overview (don't answer survey questions)](https://kixlab.org/courses/cs374-spring-2017/classes/08-Ideation/)
@@ -48,6 +47,11 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ (9 minutes): [Why you should be prototyping (Netflix)](https://medium.com/@rachelbinx/why-you-should-be-prototyping-e4f7d55a6848)
 - Read/Watch something else about prototyping or ideation
 
+**Get Ready**
+- LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
+- Familiarize yourself with [invision](https://www.invisionapp.com/). See Slack for our free account code.
+
+<!--
 #### Mon. 3/19 **| Visual Design Project Cont.**
 - WATCH (10 min): [Jennifer Golbeck (TED Talk). The curly fry conundrum: Why social media "likes" say more than you might think](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think#t-15090)
 - Familiarize yourself with [invision](https://www.invisionapp.com/). See Slack for our free account code.
