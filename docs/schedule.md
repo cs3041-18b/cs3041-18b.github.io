@@ -51,16 +51,16 @@ _There may be a quiz on this material. This is true for all future readings._
 - LOOK OVER: [Design For Others](../designs/visual_assn.html) Design Sprint
 - Familiarize yourself with [invision](https://www.invisionapp.com/). See Slack for our free account code.
 
-<!--
-#### Mon. 3/19 **| Visual Design Project Cont.**
+
+#### Thursday. 11/1 **| Visual Design Project Cont.**
+- DUE: [Design for Others Paper Prototypes](../designs/visual_assn.html)
 - WATCH (10 min): [Jennifer Golbeck (TED Talk). The curly fry conundrum: Why social media "likes" say more than you might think](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think#t-15090)
+- WATCH (17 minutes): [Scott Klemmer: Heuristic Evaluation - Why and How](https://www.youtube.com/watch?v=YZq7nKR9BWw)
 - Familiarize yourself with [invision](https://www.invisionapp.com/). See Slack for our free account code.
 - _OPTIONAL:_  [Google I/O 2013 - Cognitive Science and Design](https://www.youtube.com/watch?v=z2exxj4COhU&feature=youtu.be)
 - _OPTIONAL:_  [Bad typography has ruined more than just the Oscars](https://www.youtube.com/watch?v=eZSe4xVXHhI)
 
-#### Tue. 3/20 **| Visual Design Hack Day**
-- WATCH (17 minutes): [Scott Klemmer: Heuristic Evaluation - Why and How](https://www.youtube.com/watch?v=YZq7nKR9BWw)
-
+<!--
 #### Thu. 3/22 **| Data Visualization**
 - WATCH (8 min): [The Art of Data Visualization](https://www.youtube.com/watch?v=AdSZJzb-aX8)
 - READ (80 slides): [Data Visualization](../docs/reading/Visualization.pptx)

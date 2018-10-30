@@ -4,9 +4,10 @@ title: Design for Others
 exclude: true
 ---
 
-- **Group size:** Teams of 3 (1-2 teams of 4)
-- **Demo Day:** 3/23 _in class_
-- **Design Doc Due:** 3/26, 11:59 PM
+- **Group size:** Teams of 3
+- **Paper Prototypes Testing:** 11/1 _in class_
+- **Demo Day:** 11/6 _in class_
+- **Design Doc Due:** 11/8, 5:59 PM
 
 ## Overview
 **Before you begin:** Read this entire document and consider how you might want to split up work.
@@ -15,7 +16,7 @@ It's time to begin the design process. This first design sprint will force you t
 
 1. Visual Design
 2. Sketching for Ideation (using paper)
-3. Prototyping Tools (using [invision](https://www.invisionapp.com/) or [Adobe XD](https://www.adobe.com/products/xd.html)). See the class Slack channel for a demo license for inVision.
+3. Prototyping Tools (using [invision](https://www.invisionapp.com/)). See the class Slack announcements channel for a demo license for inVision.
 
 Typically, a *critical* portion of the user-centered design process is getting feedback from real users. In the interest of time, we won't be doing that in this (short) design sprint. However, it doesn't mean that you are ignoring their needs...
 
@@ -27,8 +28,7 @@ In this design sprint, you will take one of the following existing websites by a
 2. [Technocopia](http://technocopia.org/)
 3. [Worcester Public Library](http://www.mywpl.org/)
 
-
-**Here's the catch:** you aren't just translating the existing design to a mobile context for the general public. Instead, imagine that your users' mobile phones redesigned the website on the fly to _specifically cater to their needs and preferences_.
+**Here's the catch:** you aren't just translating the existing design to a mobile context for the general public. Instead, imagine that your users' mobile phones redesigned the website on the fly to _specifically cater to their needs and preferences_. 
 
 You will be designing for a specific user group _that only your team knows_. On our demo day, the rest of the class will be making their best guess as to which demographic you are catering to. For example, you could be asked to design for one of the following groups (I am going to intentionally NOT use either of these groups):
 
@@ -36,6 +36,8 @@ You will be designing for a specific user group _that only your team knows_. On 
 - People who live in Worcester in their 50s
 
 While you will not redesign the entire website, you should redesign _4-5_ pages on the website. One of those pages *must be the homepage*. The others must be accessible from the homepage.
+
+It makes sense to choose a site from the above list that you think would be appropriate for your target demographic. In some cases, multiple sites may be appropriate; you'll need to make a decision by talking it through with your group members.
 
 **REMEMBER: Do not share who you are designing for with any other students in the class**
 
@@ -52,17 +54,17 @@ Helpful Advice:
 - [9 Information Design Tips to Make You a Better Web Designer](https://design.tutsplus.com/articles/9-information-design-tips-to-make-you-a-better-web-designer--psd-1601)
 - ["Top 10 Enduring Web-Design Mistakes"](https://www.nngroup.com/articles/top-10-enduring/) posted by the Nielsen Norman Group
 
-**Output:** Use sketching as a tool for explore your designs. Similar to our airport exercise, the goal here is to rapidly explore _many_ different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 10 ideas for each screen), use paper to construct a cleaner paper prototype.
+**Output:** Use sketching as a tool for explore your designs. The goal here is to rapidly explore _many_ different solutions with messy sketches. After you have thoroughly explored the design space (you should have at least 10 ideas for each screen), construct a cleaner paper prototype.
 
-**You should test this paper prototype with other people in the class**. While they don't represent your users (so this is typically bad practice), I want you to get in the habit of getting feedback in whatever you create. We'll discuss user testing more in a week or two. Until then, do your best to get worthwhile feedback and change your prototype accordingly. Again, don't reveal who you designed this for!
+**You should test this paper prototype with other people in the class; we'll provide time for this on Thursday.**. While they don't represent your users (so this is typically bad practice), I want you to get in the habit of getting feedback on whatever you create. We'll discuss user testing more in a week or two. Until then, do your best to get worthwhile feedback and change your prototype accordingly. What will users click on? Is it clear how to navigate the site? What are their eyes drawn to first? Your paper prototype should contain enough detail to support exploring high-level questions like this. Again, don't reveal who you designed this for!
 
 ### Visual Design
 Just as the important information may differ between groups, so might the styles that they prefer. Consider how the websites that are targeted towards college students differ in their fonts, colors, and visual organization in comparison to websites that specifically targets elderly users.
 
 Being able to articulate the correct mood and/or tone for your demographic is critical. How can you do that if you're not a professional designer? We'll use one strategy here.
 
-- [**Create a Mood Board:**](https://creativemarket.com/blog/mood-boards-why-and-how-to-create-them) You may not be able to design well for a particular group of people off the top of your head.. but if you had enough good examples, you'd probably be able to pick up on a few ideas - design patterns, color schemes, fonts. This is exactly what a mood board is for. As you search for websites or environments that are commonly visited by people in your target demographic, take pictures and then put them together in one space. I like using a website like [niice.co](https://niice.co/).
-- Consider the [design resources](../docs/resources.html) we have posted on our website. For example, if you can extract a color or two from your design board, there are tools that you can use to uncover complementary colors.
+- [**Create a Mood Board:**](https://creativemarket.com/blog/mood-boards-why-and-how-to-create-them) You may not be able to design well for a particular group of people off the top of your head. But if you had enough good examples, you'd probably be able to pick up on a few ideas - design patterns, color schemes, fonts. This is exactly what a mood board is for. As you search for websites or environments that are commonly visited by people in your target demographic, take pictures and then put them together in one space. I like using a website like [niice.co](https://niice.co/). inVision also provides options for creating a mood board.
+- Consider the [design resources](../docs/resources.html) we have posted on our website. For example, if you can extract a color or two from your mood board, there are tools that you can use to uncover complementary colors.
 
 **Output:** a set of colors, fonts, and general styles that you feel are appropriate for your user group. Consider explicitly putting these into your design doc to show the provenance of your stylistic decisions.
 
@@ -79,3 +81,7 @@ Invision is fantastic, but it isn't magic. You're still going to need to create 
   - pictures of your various sketches
   - a picture of your moodboard
   - pictures of your final product (more broadly, the evolution of your design should be clear)
+  - text describing your design process and results (minimum ~750 words, but probably should be significantly more than this to adequately justify each decision): 
+    - What feedback did you get during user testing with your paper prototype? Was it useful? How would you change your prototyping process to improve testing?
+    - How did you arrive at your design decisions (layout, colors, fonts, content, etc.)?
+    - Were people able to guess your target demographic on demo day? If not, what did they guess and why? IF so, what clues helped them?

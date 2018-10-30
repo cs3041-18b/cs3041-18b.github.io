@@ -16,6 +16,7 @@ exclude: true
 - [LOLColors:](http://www.lolcolors.com/) curated color palette inspiration
 - [Fontpair:](http://fontpair.co/) collection of fonts that go well together.
 - [Beautiful Web Type:](http://beautifulwebtype.com/) showcases the most beautiful fonts from Google's free WebFonts collection
+- [Typewolf Typography Resources:](https://www.typewolf.com/resources) a collection of resources related to typography, including online forums where you can ask questions.
 - [Subtle Patterns:](http://subtlepatterns.com/) a great collection of unobtrusive background patterns for a website.
 - [icons8:](https://icons8.com/) huge collection of icons.
 - [Noun Project:](https://thenounproject.com/) enormous collection of well-designed icons. Many are free (at least with attribution).
