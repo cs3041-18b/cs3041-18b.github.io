@@ -59,7 +59,7 @@ _There may be a quiz on this material. This is true for all future readings._
 - _OPTIONAL:_  [Google I/O 2013 - Cognitive Science and Design](https://www.youtube.com/watch?v=z2exxj4COhU&feature=youtu.be)
 - _OPTIONAL:_  [Bad typography has ruined more than just the Oscars](https://www.youtube.com/watch?v=eZSe4xVXHhI)
 
-#### Thursday. 11/6 **| Visualization + Design for Others Demo Day**
+#### Tuesday. 11/6 **| Visualization + Design for Others Demo Day**
 - DUE: [Design for Others Prototype (using inVision)](../designs/visual_assn.html)]. MAKE SURE AT LEAST ONE MEMBER OF YOUR GROUP HAS A LAPTOP TO RUN THE DEMO IN CLASS.
 
 
