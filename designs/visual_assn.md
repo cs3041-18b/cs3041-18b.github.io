@@ -37,7 +37,7 @@ You will be designing for a specific user group _that only your team knows_. On 
 
 While you will not redesign the entire website, you should redesign _4-5_ pages on the website. One of those pages *must be the homepage*. The others must be accessible from the homepage.
 
-It makes sense to choose a site from the above list that you think would be appropriate for your target demographic. In some cases, multiple sites may be appropriate; you'll need to make a decision by talking it through with your group members.
+It makes sense to choose a site from the above list that you think would be appropriate for your target demographic. In some cases, multiple sites may be appropriate; you'll need to make a decision by talking it through with your group members...
 
 **REMEMBER: Do not share who you are designing for with any other students in the class**
 
