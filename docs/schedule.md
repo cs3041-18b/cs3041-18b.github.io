@@ -59,21 +59,19 @@ _There may be a quiz on this material. This is true for all future readings._
 - _OPTIONAL:_  [Google I/O 2013 - Cognitive Science and Design](https://www.youtube.com/watch?v=z2exxj4COhU&feature=youtu.be)
 - _OPTIONAL:_  [Bad typography has ruined more than just the Oscars](https://www.youtube.com/watch?v=eZSe4xVXHhI)
 
+## Week 3
 #### Tuesday. 11/6 **| Visualization + Design for Others Demo Day**
 - DUE: [Design for Others Prototype (using inVision)](../designs/visual_assn.html)]. MAKE SURE AT LEAST ONE MEMBER OF YOUR GROUP HAS A LAPTOP TO RUN THE DEMO IN CLASS.
 
-
-<!--
-#### Thu. 3/22 **| Data Visualization**
+#### Thu. 11/8 **| Data Visualization**
+- DUE: [Design for Others Design Document](../designs/visual_assn.html)
 - WATCH (8 min): [The Art of Data Visualization](https://www.youtube.com/watch?v=AdSZJzb-aX8)
 - READ (80 slides): [Data Visualization](../docs/reading/Visualization.pptx)
 - READ/WATCH: [39 studies about human perception in 30 minutes](https://medium.com/@kennelliott/39-studies-about-human-perception-in-30-minutes-4728f9e31a73) \| [Accompanying Talk](https://www.youtube.com/watch?v=s0J6EDvlN30)
 - WEBSITE: [Five Design Sheet Methodology for Visualization](http://fds.design/)
 - _OPTIONAL:_ [Data Storytelling: The Ultimate Collection of Resources](http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii)
 
-#### Fri. 3/23 **| Others Demo Day**
-- DUE: [Design for Others Demo](../designs/visual_assn.html)
-
+<!--
 ## Week 3
 
 #### Thur. 3/26 **| Interactive Vis**
