@@ -42,6 +42,10 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 
 - [Good Design, Bad Design](designs/goodbad_assn.html) **->** [submit](https://docs.google.com/spreadsheets/d/1_-c52ou3mpTM-5WZWA72Un6ohm9ZPpca2NkV5ujLrBU/edit?usp=sharing) \| _Due 10/25, 5:59 PM_
 - [Design for Others](designs/visual_assn.html) **->** [submit](https://docs.google.com/spreadsheets/d/1U7gsWmazuKwDc3-ymrrKCwq4MaXGi1rNR3teIy_9iKU/edit?usp=sharing) \| _Due 11/8, 5:59 PM_
+- [Design for Understanding](designs/datavis_assn.html) **->** 
+  - _Initial Prototype Due 11/13, 5:59 PM_
+  - _Final Prototype Due 11/15, 5:59 PM_
+  - _Design Reflection Due 11/20, 11:59 PM_ [submit](https://docs.google.com/spreadsheets/d/1U7gsWmazuKwDc3-ymrrKCwq4MaXGi1rNR3teIy_9iKU/edit?usp=sharing)
 
 
 <!-- 

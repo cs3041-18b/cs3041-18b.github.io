@@ -71,20 +71,19 @@ _There may be a quiz on this material. This is true for all future readings._
 - WEBSITE: [Five Design Sheet Methodology for Visualization](http://fds.design/)
 - _OPTIONAL:_ [Data Storytelling: The Ultimate Collection of Resources](http://www.juiceanalytics.com/writing/data-storytelling-the-ultimate-collection-of-resources-ii)
 
-<!--
-## Week 3
 
-#### Thur. 3/26 **| Interactive Vis**
-- DUE: [Design for Others Design Doc](../designs/visual_assn.html)
-- _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE 450MB!)](http://web.cs.wpi.edu/~ltharrison/docs/isenberg_interaction.pptx)
+## Week 4
 
-#### Tue. 3/27 **| User Testing + Hack Day**
+#### Tue. 11/13 **| Interactive Vis**
+- DUE: [Design for Understanding Prototype](../designs/datavis_assn.html)
 - READ (22 slides): [User Testing](../docs/reading/User_Testing.pptx)
 - WATCH: [Rocket Surgery Made Easy: Usability Demo (Steve Krug)](https://www.youtube.com/watch?v=QckIzHC99Xc)
-
-#### Thu. 3/29 **| Crowdsourcing + Social Psych**
 - READ: [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
+- _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE 450MB!)](http://web.cs.wpi.edu/~ltharrison/docs/isenberg_interaction.pptx)
+<!--
+#### Thu. 3/29 **| Crowdsourcing + Social Psych**
+
 - _REFERENCE:_  People + Computation Slides -- SEE Slack
 
 #### Fri. 3/30 **| Conversational Interfaces**
@@ -94,7 +93,7 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ: [HCI for Peace: A Call for Constructive Action](http://homepage.divms.uiowa.edu/~hourcade/hciforpeace.pdf)
 - WATCH: Watch a talk from the [HCI for Peace Conference](http://howtobuildpeace.org/bp2014/)
 
-## Week 4
+## Week 5
 
 #### Mon. 4/2 **| Understanding Demos**
 - DUE: [Design for Understanding Demo](../designs/datavis_assn.html)

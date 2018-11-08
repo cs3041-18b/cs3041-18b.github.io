@@ -8,7 +8,6 @@ exclude: true
 - **Demo Day:** 3/30 _in class_
 - **Design Doc Due:** 4/2, 11:59 PM
 
-
 ## Overview
 Mapping data to visual features is a powerful method for communicating information by leveraging the rapid perceptual pathways in our brain.  In this design sprint, you will use visual methods to communicate data - but for different end goals. Your job is to use two different lenses to approach the same dataset:
 
@@ -23,39 +22,43 @@ Before you begin, choose a dataset. While you may use any dataset, be aware that
 - [_CORGIS (The Collection of Really Great, Interesting, Situated Datasets)_](https://think.cs.vt.edu/corgis/): cleaned, well-organized datasets that should be very simple to load into your program.
 - [_Datasets underlying FiveThirtyEight stories_](https://github.com/fivethirtyeight/data): Mostly cleaned, but may come in different formats.
 - [_Data is Plural newsletter_](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk): fascinating datasets, but may not be cleaned/curated
+- [_Awesome JSON Datasets_](https://docs.google.com/spreadsheets/d/1U7gsWmazuKwDc3-ymrrKCwq4MaXGi1rNR3teIy_9iKU/edit?usp=sharing). Datasets that are publicly available and encoded as JSON (JavaScript Object Notation) objects, making the data very easy to use in JavaScript.
 
 ### Your Technology
 Both are valuable perspectives, and there are tradeoffs between the two. To help match your tools with your objectives, we'll use two.
 
-- [**Vega**](https://vega.github.io/vega/) or [**Vega-Lite:**](https://vega.github.io/vega-lite/) These are both templating tools that sit on top of the very popular d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction (_recommended_).
+- [**Vega**](https://vega.github.io/vega/) or [**Vega-Lite:**](https://vega.github.io/vega-lite/) These are both templating tools that sit on top of the very popular d3js visualization library. While they are less expressive than d3js, they will allow you to rapidly (hopefully) construct data visualizations. Vega will allow you to be a little more creative and integrate interaction. Spend some time with [the examples page](https://vega.github.io/vega-lite/examples/) to get an idea of what is possible, and get ideas for your visualization more generally.
 
-- [**P5js**](https://p5js.org/): p5js is an expressive, accessible javascript library that enables pixel-level control. While it is more difficult to construct basic charts than vega or vega-lite, it empowers more creative interpretations of data that are either more abstract or that incorporate sound.
+- [**P5js**](https://p5js.org/): p5js is an expressive, accessible javascript library that enables pixel-level control. While it is more difficult to construct basic charts than vega or vega-lite, it empowers more creative interpretations of data that are ei      ther more abstract or that incorporate sound.
 
 ### Your Two Portraits
 
 - _For Clear Communication:_ You should construct a series of graphs that tell the story of the data. The properties of the data should align with your chart choice. Together, your charts (_AT LEAST_ 3) should explore the data from different perspectives. For example, [Airline on-time performance](http://square.github.io/crossfilter/). While you may not have the degree of interaction of this demo, note how it gives different perspectives of the same data.
 
-- _For Persuasion:_ There are very few guidelines here. I would encourage you to be creative and optimize for impact. For example, here is a visual/audio interpretation of data that I created (note: you need audio): [15 Years of Mass Shootings in America](https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America).
-
+- _For Persuasion:_ There are very few guidelines here. I would encourage you to be creative and optimize for impact. For example, consider the work of Pedro Cruz that we looked at in class: [Pedro Cruz on Vimeo](https://vimeo.com/pmcruz).
 
 ### Your Design Process
-Before you got to this class, you should have read about the [five design-sheet (FdS)](http://fds.design/) approach for information visualization. You should walk through [all five stages](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf) of FdS. Make sure to get feedback from other students in the class as part of your design process!
-
-> Over the course of the term, I am going to give fewer and fewer detailed instructions about how to run your design process. This is intentional! As we become more familiar with it, I expect you to be able to apply it yourself to any new technological domain
+Before you got to this class, you should have read about the [five design-sheet (FdS)](http://fds.design/) approach for information visualization. You should walk through [all five stages](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf) of FdS. Make sure to get feedback from other students in the class as part of your design process; we'll be providing time for this in class on Nov. 13th.
 
 ### Build it.
 Just build it. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That's okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.
 
 
 ## Deliverables
-- As always: Your design reflection as a Medium blog post. Like the last assignment, **you do not need a demo video**
+- **PROTOTYPE TESTING**: Tuesday, November 13th. Have an initial prototype ready for testing in class. This will be our second time gathering feedback on a project, so really think about what you'd like to test and how you'd like to test it. While it's certainly reasonable to do a broad test on your entire design, it can also be useful to create prototypes designed to test specific design decisions that you're interested in.
+- **"FINAL" TESTING**: Thursday, November 15th. After making changes based on feedback from the last class, we will do short demos again. Did the changes you made result in a better final product? If not, is there something problematic you can identify about the prototyping / user testing you designed?
+- **DESIGN REFLECTION**: Tuesday, November 20th, by 11:59 PM. Your design reflection as a Medium blog post. Like the last assignment, you do not need a demo video.
   - Be sure to reflect on the contrast between the two ways you have chosen to communicate your data. There are certainly tradeoffs between the two.
-- Both of your designs should be hosted on WPI's servers with publicly accessible links. These links should be clearly included into your design reflection.
+  - Some questions to address: What elements of your design worked? What could have been improved? How did user testing help with identifying these areas? How would you change your user testing / prototyping process if you were going to complete this assignment again? Did you find the five design sheet approach helpful? Why or why not? Would you use it again?
+  - Be sure to include some images:
+    - Your brainstorm sheets
+    - Your design sheets
+    - Users testing your prototypes (remember to take these!)
+  - Both of your designs should be hosted on WPI's servers with publicly accessible links. These links should be clearly included into your design reflection.
 
 -------------------
 ## Some Tech Tips
-Over the past summer, I had a colleague complete each of these assignments to help me determine where students might encounter problems. From this project on, I will include her notes on the tech you'll be using.
-
+Here are some helpful tips getting started on creating a visualization project for the web.
 
 ### Getting Started: Creating a website
 _If you've never hosted a website on WPI's Linux servers before, start by following the steps [here](https://its.wpi.edu/Article/Create-a-Personal-or-Group-Website-at-WPI)._
@@ -91,8 +94,7 @@ _If you've never hosted a website on WPI's Linux servers before, start by follow
   4. You should now be able to see the "printed" statements from your sketch.js document.
 
 ### Build your story
-The options here are too diverse to describe in a single point. However, if you want to start with existing code, see my [15 Years of Mass Shootings in America](https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America) github repository.
-
+The options here are too diverse to describe in a single point. However, if you want to start with existing code, see the [15 Years of Mass Shootings in America](https://github.com/evanpeck/15-Years-of-Mass-Shootings-in-America) github repository.
 
 ---------
 
@@ -113,7 +115,7 @@ The options here are too diverse to describe in a single point. However, if you 
 
 
 ### Publishing your Visualization:
-  1. Once you're diagram is finished open the `index.html` in the `public_html` folder that you created earlier in a text editor.
+  1. Once your diagram is finished open the `index.html` in the `public_html` folder that you created earlier in a text editor.
   2. Delete anything that's already in the file and use the code given [here](https://vega.github.io/vega-lite/tutorials/getting_started.html#embed) (if your computer isn't already there, go to the section titled "Publish your Visualization Online") to guide you in adding your chart or graph to your webpage.
       - Don't forget to include `var vlSpec = {` before entering your diagram code as well as the optional code for vega-lite that we need `var opt = {"mode": "vega-lite"};` towards the bottom.
   3. Once completed, you should be able to see your diagram
