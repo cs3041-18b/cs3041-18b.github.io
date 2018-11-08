@@ -5,8 +5,9 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4 (likely working pairs)
-- **Demo Day:** 3/30 _in class_
-- **Design Doc Due:** 4/2, 11:59 PM
+- **Prototype Day:** 11/13 _in class_
+- **Final Demo Day:** 11/15 _in class_
+- **Design Doc Due:** 11/20, 11:59 PM
 
 ## Overview
 Mapping data to visual features is a powerful method for communicating information by leveraging the rapid perceptual pathways in our brain.  In this design sprint, you will use visual methods to communicate data - but for different end goals. Your job is to use two different lenses to approach the same dataset:
@@ -22,7 +23,7 @@ Before you begin, choose a dataset. While you may use any dataset, be aware that
 - [_CORGIS (The Collection of Really Great, Interesting, Situated Datasets)_](https://think.cs.vt.edu/corgis/): cleaned, well-organized datasets that should be very simple to load into your program.
 - [_Datasets underlying FiveThirtyEight stories_](https://github.com/fivethirtyeight/data): Mostly cleaned, but may come in different formats.
 - [_Data is Plural newsletter_](https://docs.google.com/spreadsheets/d/1wZhPLMCHKJvwOkP4juclhjFgqIY8fQFMemwKL2c64vk): fascinating datasets, but may not be cleaned/curated
-- [_Awesome JSON Datasets_](https://docs.google.com/spreadsheets/d/1U7gsWmazuKwDc3-ymrrKCwq4MaXGi1rNR3teIy_9iKU/edit?usp=sharing). Datasets that are publicly available and encoded as JSON (JavaScript Object Notation) objects, making the data very easy to use in JavaScript.
+- [_Awesome JSON Datasets_](https://github.com/jdorfman/awesome-json-datasets). Datasets that are publicly available and encoded as JSON (JavaScript Object Notation) objects, making the data very easy to use in JavaScript.
 
 ### Your Technology
 Both are valuable perspectives, and there are tradeoffs between the two. To help match your tools with your objectives, we'll use two.
