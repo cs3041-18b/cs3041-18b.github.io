@@ -39,11 +39,10 @@ Both are valuable perspectives, and there are tradeoffs between the two. To help
 - _For Persuasion:_ There are very few guidelines here. I would encourage you to be creative and optimize for impact. For example, consider the work of Pedro Cruz that we looked at in class: [Pedro Cruz on Vimeo](https://vimeo.com/pmcruz).
 
 ### Your Design Process
-Before you got to this class, you should have read about the [five design-sheet (FdS)](http://fds.design/) approach for information visualization. You should walk through [all five stages](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf) of FdS. Make sure to get feedback from other students in the class as part of your design process; we'll be providing time for this in class on Nov. 13th.
+Before you got to this class, you should have read about the [five design-sheet (FdS)](http://fds.design/) approach for information visualization. You should walk through [all five stages](http://fds.design/wp-content/uploads/2015/06/five-design-sheet-approach-JCR.pdf) of FdS for both the Clear Communication and Persuasion portraits. Make sure to get feedback from other students in the class as part of your design process; we'll be providing time for this in class on Nov. 13th.
 
 ### Build it.
 Just build it. Note that you may run into tensions between your imagined visualization and the one that you have time to create. That's okay! Technical tradeoffs are a reality that any designer must encounter. Adjust your design (as needed), and be sure to discuss these tradeoffs in your design document.
-
 
 ## Deliverables
 - **PROTOTYPE TESTING**: Tuesday, November 13th. Have an initial prototype ready for testing in class. This will be our second time gathering feedback on a project, so really think about what you'd like to test and how you'd like to test it. While it's certainly reasonable to do a broad test on your entire design, it can also be useful to create prototypes designed to test specific design decisions that you're interested in.
