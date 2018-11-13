@@ -74,7 +74,7 @@ _There may be a quiz on this material. This is true for all future readings._
 
 ## Week 4
 
-#### Tue. 11/13 **| Interactive Vis**
+#### Tue. 11/13 **| Interactive Vis + Crowdsourcing + Social Psych**
 - DUE: [Design for Understanding Prototype](../designs/datavis_assn.html)
 - READ (22 slides): [User Testing](../docs/reading/User_Testing.pptx)
 - WATCH: [Rocket Surgery Made Easy: Usability Demo (Steve Krug)](https://www.youtube.com/watch?v=QckIzHC99Xc)
@@ -82,17 +82,14 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
 - _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE 450MB!)](http://web.cs.wpi.edu/~ltharrison/docs/isenberg_interaction.pptx)
 
-<!--
-#### Thu. 3/29 **| Crowdsourcing + Social Psych**
-
-- _REFERENCE:_  People + Computation Slides -- SEE Slack
-
-#### Fri. 3/30 **| Conversational Interfaces**
+#### Thu. 11/15 **| Conversational Interfaces**
 - READ (14 minutes): [Technical and social challenges of conversational design](https://uxdesign.cc/my-website-is-now-conversational-here-is-what-i-learned-7e943cc6ace0)
 - READ (9 minutes): [How to design a robust chatbot interaction](https://uxdesign.cc/how-to-design-a-robust-chatbot-interaction-8bb6dfae34fb)
 - READ: [Conversation Design: Speaking the Same Language (Google)](https://design.google/library/conversation-design-speaking-same-language/)
 - READ: [HCI for Peace: A Call for Constructive Action](http://homepage.divms.uiowa.edu/~hourcade/hciforpeace.pdf)
-- WATCH: Watch a talk from the [HCI for Peace Conference](http://howtobuildpeace.org/bp2014/)
+- _OPTIONAL WATCH:_ Any talk from the [HCI for Peace Conference](http://howtobuildpeace.org/bp2014/)
+
+<!--
 
 ## Week 5
 
