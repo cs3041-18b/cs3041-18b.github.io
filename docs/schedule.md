@@ -81,6 +81,7 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ: [How Uber Uses Psychological Tricks to Push Its Drivers' Buttons](https://www.nytimes.com/interactive/2017/04/02/technology/uber-drivers-psychological-tricks.html?_r=0)
 - READ: [HCI and Collective Intelligence (Jeff Bigham, Michael Bernstein, & Eytan Adar)](http://www.cond.org/ci-chapter.pdf)
 - _OPTIONAL:_ [Interactive Data Visualization Slides (BIG FILE 450MB!)](http://web.cs.wpi.edu/~ltharrison/docs/isenberg_interaction.pptx)
+
 <!--
 #### Thu. 3/29 **| Crowdsourcing + Social Psych**
 
