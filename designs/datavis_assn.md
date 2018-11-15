@@ -56,6 +56,8 @@ Just build it. Note that you may run into tensions between your imagined visuali
     - Users testing your prototypes (remember to take these!)
   - Both of your designs should be hosted on WPI's servers with publicly accessible links. These links should be clearly included into your design reflection.
 
+One of the most important outcomes of this class is thinking about the ideation, prototyping, and user-testing testing processes. For your final individual project, you'll be required to distill your thoughts on these areas into a coherent design philosophy. Start writing about this as much as possible now and you'll have less work later!
+
 -------------------
 ## Some Tech Tips
 Here are some helpful tips getting started on creating a visualization project for the web.
