@@ -57,4 +57,6 @@ Develop your chatbot and then **test it with real people**. Don't just assume it
 ## Deliverables
 - As always: Your design reflection as a Medium blog post. Since your bot may not live forever, **you WILL need a demo video that captures all important conversational aspects**. A single video can be made for the entire group, or each member can make their own individual video (or some combination of the above).
 - For this module, be sure to reflect on your interaction with users and how that drove your design.
+- Was your chatbot persuasive? Why was it (un)successful? How could it have been improved?
 - Make sure that your bot is accessible to chat during our demo day.
+
