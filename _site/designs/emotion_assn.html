@@ -131,8 +131,8 @@
   <div class="post-content">
     <ul>
   <li><strong>Group size:</strong> Teams of 4</li>
-  <li><strong>Demo Day:</strong> 4/19 <em>in class</em></li>
-  <li><strong>Design Doc Due:</strong> 4/23, 11L59 PM</li>
+  <li><strong>Demo Day:</strong> 12/4 <em>in class</em></li>
+  <li><strong>Design Doc Due:</strong> 12/6, <em>before class</em> <a href="https://docs.google.com/spreadsheets/d/1RpuIJYlHO48eitI6_wFl1ue-eHDES5EnkC9fUxvFW90/edit?usp=sharing">submit</a></li>
 </ul>
 
 <p>In this design sprint, we will be considering what it will mean for our computer devices to be attentive to us in ways that haven’t in the past. <strong>We’ll use <a href="https://knowledge.affectiva.com/v3.3/docs/getting-started-with-the-emotion-sdk-for-javascript">Affectiva libraries</a> to design a website that responds to user emotion, with the end goal of <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6679310">promoting wellbeing</a></strong> (broadly defined on purpose!).</p>
@@ -140,17 +140,11 @@
 <p>The idea of using technology to not only get something done, but also promote health and wellbeing, is an emerging, but important topic. Startups such as <a href="https://my.happify.com/">happify</a>, <a href="http://smilingmind.com.au/">smiling mind</a>, <a href="https://spire.io/">spire</a>, <a href="http://www.choosemuse.com/">muse</a>, and <a href="https://www.empatica.com/">empatica</a> all push to help make people more compassionate or wiser or happier or healthier. <a href="http://www.positivecomputing.org/"><em>Positive Computing</em></a>, a term coined by Rafael Calvo and Dorian Peters of University of Sydney, is increasingly being pointed to <a href="https://www.washingtonpost.com/news/innovations/wp/2015/01/30/positive-computing-the-tech-buzzword-you-need-to-know-for-2015/?utm_term=.7faa5fd7fbe8">an important emerging movement in technology design</a>. This is your chance to explore that space.</p>
 
 <h3 id="the-design-process">The Design Process</h3>
-<p>To start out this design sprint you should….</p>
+<p>We’re entering the final third of the term, which means it’s time for me to stop telling you how to apply the design process. Instead, you’ll need to work out yourself how best to <strong>ideate</strong>, <strong>prototype</strong>, and <strong>test</strong> in a new domain. <em>Understanding how to do this is the most important outcome of the course</em>. Technology will rapidly on shift and move for years after you leave WPI. If you can leave HCI with a process and methodology that informs <em>good design</em> in any context, then this course is a success.</p>
 
-<p>…</p>
+<p>Discuss with your group members how you’d like to brainstorm ideas. After you’ve finished brainstorming and chosen an idea(s) to further explore, discuss the best methodologies for prototyping and user testing. What specifically are you going to test? How will your prototypes help conduct these tests? Think about each of these choices carefully, and be sure to record the reasoning behind each in your design reflection, as well as whether they proved to be good or bad decisions. Making a bad choice in this context in perfectly fine, especially if you can articulate why your decision didn’t pan out and what you’d do differently next time.</p>
 
-<p>…</p>
-
-<p>…</p>
-
-<p>…</p>
-
-<p>We’re getting towards last third of the term, which means it’s time for me to stop telling you how to apply the design process. Instead, you’ll need to work out yourself how best to <strong>ideate</strong>, <strong>prototype</strong>, and <strong>test</strong> in a new domain. <em>This is the most important outcome of the course</em>. Technology will rapidly on shift and move for years after you leave WPI. If you can leave HCI with a process and methodology that informs <em>good design</em> in any context, then this course is a success.</p>
+<p><strong>You will have time in class on 11/29 to work on this module (estimated ~1 hour)</strong>. This time could be used to test quick prototypes on other students in the class, for ideation, or to develop your prototype implementations. It’s up to you.</p>
 
 <h3 id="some-tips-before-you-start">Some Tips Before You Start</h3>
 
@@ -159,7 +153,7 @@
     <p><strong>Play with the <a href="https://knowledge.affectiva.com/v3.3/docs">Affectiva library</a> first to understand the data.</strong> Before you can understand how a system might react to data, you need to understand the data itself. The best way to do this is  to visit <a href="https://jsfiddle.net/affectiva/opyh5e8d/show/">this demonstration which gives you access to the raw data as it monitors your emotions</a> (you’ll need a computer with a webcam). What seems reliable? What doesn’t? You certainly won’t use all of it. I would probably focus on a single dimension. You can also see how it <a href="https://affectiva.github.io/youtube-demo/">tracks emotions in response to YouTube videos</a>.</p>
   </li>
   <li>
-    <p><strong>Design a SIMPLE, but meaningful response</strong> You’re quickly going to find out that emotion data is <em>very</em> messy (welcome to the wild world of user state sensing!). That means that you can expect to spend quite a bit of time just fighting with the data. As a result, rather than ideate big, ambitious systems (which I love, but you probably won’t have time for), brainstorm <em>simple</em> changes or interactions that could have a meaningful impact. For some inspiration, it might be worth looking through <a href="http://affect.media.mit.edu/index.php">projects by the Affective Computing group at MIT</a>.</p>
+    <p><strong>Design a SIMPLE, but meaningful response</strong> You’re quickly going to find out that emotion data is <em>very</em> messy (welcome to the wild world of user state sensing!). That means that you can expect to spend quite a bit of time just fighting with the data. As a result, rather than ideate big, ambitious systems (which I love, but you probably won’t have time for), brainstorm <em>simple</em> changes or interactions that could have a meaningful impact. For some inspiration, it might be worth looking through <a href="https://www.media.mit.edu/groups/affective-computing/projects/">projects by the Affective Computing group at MIT</a>.</p>
   </li>
   <li>
     <p><strong>Consider the usefulness of a ‘sometimes right’ emotion detector.</strong> The reality is that no matter the preprocessing, Affectiva is still likely to be wrong a fair amount of time. This means that some interactions are more appropriate than others. You wouldn’t want an eject button in an airplane hard-wired to someone’s emotional responses (okay, extreme example… but you get the point). But if you highlighted the text that someone wrote based on their emotions, a misclassification or two doesn’t undermine the entire application. We talk about some of the tradeoffs in these adaptive strategies in section 4.2 of <a href="http://www.danafergan.com/publications/solovey2015designing.pdf">a paper we published about brain-computer interfaces</a></p>
@@ -168,14 +162,13 @@
     <p><strong>Focus on what should <em>trigger</em> your system’s response.</strong> While the response itself is important, <strong>when</strong> that change occurs is possibly even more important. Consider what might happen if you made a change <em>every</em> time affectiva detected that a person was angry. Remember that Affectiva frequently samples data, so you may not want to respond with <em>every</em> single state prediction, especially when it is messy. Some approaches I’ve seen in the past include generating a moving average of recent data to smooth out noisy data… then setting thresholds for response.</p>
   </li>
   <li>
-    <p><strong>A warning.</strong> Because of a combination of messy input + web programming, this has the potential to be the most challenging <em>technical</em> project of the term. Take this into account when allocating your time! Even in the earliest stages, it’s worth having someone on the team begin familiarizing themselves with how to respond to and manipulate webpages. To help enforce this, <strong>on Tuesday, April 17, we will have a team quiz rather than an individual quiz</strong>. The quiz will involve both content from the reading <em>as well as</em> simple HTML + javascript questions that are directly related to the given demonstration code (see below).</p>
+    <p><strong>A warning.</strong> Because of a combination of messy input + web programming, this has the potential to be the most challenging <em>technical</em> project of the term. Take this into account when allocating your time!</p>
   </li>
 </ul>
 
 <h3 id="deliverables">Deliverables</h3>
 <ul>
-  <li>As always: Your design reflection as a Medium blog post. <strong>You WILL need a demo video</strong>.</li>
-  <li>Your site should be publicly accessible so that others can visit it. <strong>Include this link in your design doc</strong></li>
+  <li>As always: Your design reflection as a Medium blog post. <strong>You WILL need to include a demo video, this can be shared by group members or created individually</strong>.</li>
 </ul>
 
 <h2 id="some-technical-hints">Some Technical Hints</h2>
@@ -187,15 +180,17 @@
   <li><a href="../docs/customized-detector.zip">A demo app that changes the filter on the webcam based on your emotion</a></li>
 </ul>
 
-<p>To run these apps, you can either put them up in your server space on the Linux server or you can run them locally. Remember, to run them locally, you’ll still need to create a local server:</p>
+<p>To run these apps, you can either put them up in your server space on the Linux server or you can run them locally. For some examples, you might need to create a local server:</p>
 <ul>
   <li>use command-line to navigate to project folder and type <code class="highlighter-rouge">python -m SimpleHTTPServer 4444</code></li>
   <li>Navigate to the page in your web browser at <code class="highlighter-rouge">127.0.0.1:4444</code></li>
 </ul>
 
+<p>… although I’ve also had success using the Affectiva API without using a web server i.e. just dragging your HTML file into a browser window to load it.</p>
+
 <h4 id="javascript-dom-and-jquery">Javascript, DOM, and jQuery</h4>
 
-<p>Your output may be a webpage that responds in some way to the emotional content of the user. This will likely involve manipulation of HTML using javascript. While I provided resources in the readings to help get someone up to speed with <a href="https://jquery.com/">jQuery</a>, there are many, many specialized javascript libraries that may accomplish your goals more simply (could you combine this library with p5js? Maybe…). I would recommend that you search for them before trying to recreate the wheel. <strong>If you know better tools, use them.</strong></p>
+<p>Your output be a webpage that responds in some way to the emotional content of the user. This will likely involve manipulation of HTML using javascript. There are many, many specialized javascript libraries that may help you accomplish your goals (could you combine Affectiva with p5.js?). I would recommend that you search for them before trying to recreate the wheel. However, you can do a lot with plain vanilla JS these days. Ask questions in the Slack channel if you’re looking for hints on the best way to realize an interface concept.</p>
 
   </div>
 

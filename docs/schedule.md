@@ -89,16 +89,27 @@ _There may be a quiz on this material. This is true for all future readings._
 - READ: [HCI for Peace: A Call for Constructive Action](http://homepage.divms.uiowa.edu/~hourcade/hciforpeace.pdf)
 - _OPTIONAL WATCH:_ Any talk from the [HCI for Peace Conference](http://howtobuildpeace.org/bp2014/)
 
+
+## Week 5 / Thanksgiving 
+- PROTOTYPE: [Design for Tension Prototype](../designs/chatbot_assn.html)
+
+## Week 6
+#### Tue. 11/27 **| Affective Computing**
+- DUE: [Design for Tension Final Chatbot](../designs/chatbot_assn.html)
+- IN CLASS: Intro to Affectiva (https://knowledge.affectiva.com/v3.3/docs/analyze-the-camera-stream-3)
+- IN CLASS: Begin [Design for Wellbeing module](../designs/emotion_assn.html)
+
+#### Thu. 11/29 **| Affective Computing Hack Day**
+_Bring your laptops to work! If you're planning on working with live video analysis, make sure at least one of your group members has a webcam. If needed, you can check webcams out from the Academic Technology Center._
+- DUE: [Design for Tension Design Reflection (individual)](../designs/chatbot_assn.html)
+- WATCH (~16 minutes): [Rafael Calvo: Time for Technologies to Respect our Psychological Needs](https://www.youtube.com/watch?v=wUvmqKvZQ-0)
+- READ (short): [We Need Computers with Empathy](https://www.technologyreview.com/s/609071/we-need-computers-with-empathy/?utm_campaign=Owned+Social&utm_source=Twitter&utm_medium=Owned+Social)
+- READ (short): [Why you want your Drone to have Empathy](https://spectrum.ieee.org/automaton/robotics/drones/why-you-want-your-drone-to-have-emotions?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+IeeeSpectrum+%28IEEE+Spectrum%29)
+- READ (short): [Affective Computing for HCI](http://vismod.media.mit.edu/pub/tech-reports/TR-490/)
+- _For Reference (Optional):_ [Affective Computing by Kristina H&ouml;&ouml;k](https://www.interaction-design.org/literature/book/the-encyclopedia-of-human-computer-interaction-2nd-ed/affective-computing)
+
 <!--
-
-## Week 5
-
-#### Mon. 4/2 **| Understanding Demos**
-- DUE: [Design for Understanding Demo](../designs/datavis_assn.html)
-
-#### Tue. 4/3 **| Chatbot Hack Day**
-- DUE: [Design for Understanding Doc](../designs/datavis_assn.html)
-- Work on chatbots
+- WATCH (~45 minutes): [Rosalind Picard: Emotion Technology](https://www.youtube.com/watch?v=su25HMMygaA)
 
 #### Thu. 4/5 **| 3D User Interfaces + Fun**
 - WATCH (17 minutes): [The Wekinator by Rebecca Fiebrink](https://www.youtube.com/watch?v=yc5CL5EoPqg)

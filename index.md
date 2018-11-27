@@ -49,6 +49,9 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 - [Design for Tension](designs/chatbot_assn.html) **->** 
   - _Final Prototype Due 11/27, 5:59 PM_
   - _Design Reflection Due 11/29, 5:59 PM_ [submit](https://docs.google.com/spreadsheets/d/1zGi6VPkb5ympAJKXf3lOZkUys8JP-CM68rx8YjLC6pQ/edit?usp=sharing)
+- [Design for Wellbeing](designs/emotion_assn.html) **->** 
+  - _Final Prototype Due 12/4, 5:59 PM_
+  - _Design Reflection Due 12/6, 5:59 PM_ [submit](https://docs.google.com/spreadsheets/d/1RpuIJYlHO48eitI6_wFl1ue-eHDES5EnkC9fUxvFW90/edit?usp=sharing)
 
 
 <!-- 

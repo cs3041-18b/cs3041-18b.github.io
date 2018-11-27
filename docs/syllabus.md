@@ -76,26 +76,28 @@ The core of the work in this class will fall under the broad category of "Design
 - _Design for Understanding_
   - Topic: Data Visualization + Communication
   - Tech: [P5js](https://p5js.org/), [Vega (Web)](https://vega.github.io/)
-- _Design for Ubiquity_
-  - Topic: Responsive design, mobile devivces, ubiquitous computing
-  - Tech: Mobile devices, HTML/CSS/JavaScript
-- _Design for Coding_
-  - Topic: Programming Interfaces + Live Coding
-  - Tech: Various live coding environments, [Codemirror](http://codemirror.net), JavaScript  
+- _Design for Tension_
+  - Topic: Conversational Interfaces + Chat Bots
+  - Tech: [Flow XO](http://flowxo.com/)
+- _Design for Wellbeing_
+  - Topic: Affective Computing + Intelligent User Interfaces
+  - Tech: [Affectiva SDK](https://www.affectiva.com/), JavaScript, CSS/HTML  
 - _Design for Another World_
   - Topic: Virtual Reality
   - Tech: [aFrame](https://aframe.io/), [Google Cardboard](https://store.google.com/product/google_cardboard?utm_source=en-ha-na-sem&utm_medium=text&utm_term=GoogleCardboard-exact&utm_content=bkws&utm_campaign=googlecardboard&gclid=CjwKCAjwk4vMBRAgEiwA4ftLsxCassXwfHhp24CJTqFcdosIlhDnBawFAiKwCtq-abfGOuUEsWdbHxoCNuMQAvD_BwE)
   
 <!--
-  - _Design for Tension_
-    - Topic: Conversational Interfaces + Chat Bots
-    - Tech: [Motion.AI](https://www.motion.ai/), JavaScript
+  - _Design for Ubiquity_
+    - Topic: Responsive design, mobile devivces, ubiquitous computing
+    - Tech: Mobile devices, HTML/CSS/JavaScript
+  - _Design for Coding_
+    - Topic: Programming Interfaces + Live Coding
+    - Tech: Various live coding environments, [Codemirror](http://codemirror.net), JavaScript
+
 - _Design for Fun_
   - Topic: Gesture Computing + Body sensing
   - Tech: [Leap Motions](https://www.leapmotion.com/), Java
-  - _Design for Wellbeing_
-  - Topic: Affective Computing + Intelligent User Interfaces
-  - Tech: [Affectiva SDK](https://www.affectiva.com/), javascript, CSS/html
+
 -->
 
 ## Final Design Portfolio
