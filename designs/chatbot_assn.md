@@ -6,7 +6,7 @@ exclude: true
 
 - **Group size:** Teams of 4
 - **Demo Day:** 11/27 _in class_
-- **Design Doc Due:** 11/29, 5:59 PM
+- **Design Doc Due:** 11/29, 5:59 PM [submit](https://docs.google.com/spreadsheets/d/1zGi6VPkb5ympAJKXf3lOZkUys8JP-CM68rx8YjLC6pQ/edit#gid=0)
 
 In this design sprint, you will create a chatbot that **attempts to tackle a tense topic, such as political divides**. This is (intentionally) an overly lofty design objective. Your goal isn't to solve your problem, but to try and tackle one small component of it. For example, you could try to create a bot that pushes people outside of their filter bubbles by pointing them towards news sources they might be unlikely to see. Maybe you create something that forces people to reflect on their own beliefs for just a moment.
 
@@ -56,5 +56,5 @@ Develop your chatbot and then **test it with real people**. Don't just assume it
 
 ## Deliverables
 - As always: Your design reflection as a Medium blog post. Since your bot may not live forever, **you WILL need a demo video that captures all important conversational aspects**. A single video can be made for the entire group, or each member can make their own individual video (or some combination of the above).
-  - For this sprint, be sure to reflect on your interaction with users and how that drove your design
+- For this module, be sure to reflect on your interaction with users and how that drove your design.
 - Make sure that your bot is accessible to chat during our demo day.
