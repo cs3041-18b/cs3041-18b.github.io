@@ -5,8 +5,8 @@ exclude: true
 ---
 
 - **Group size:** Teams of 4
-- **Demo Day:** 4/27 _in class_
-- **Design Doc Due:** 4/30, 11:59 PM
+- **Demo Day:** 12/13 _in class_
+- **Design Doc Due:** 12/14, 11:59 PM
 
 In this design sprint, we will be **exploring virtual reality to consider what it will be like when computation can transport us to another place.** Transport someone to a real location, inside a game, among abstract art... whatever you think would be interesting, immersive, and compelling!
 
@@ -15,12 +15,12 @@ As your final design sprint of the term, consider this to be your most open-ende
 That's it.
 
 A couple of quick pointers before you start:
-- **Be sure to articulate your design goal EARLY.** Without an objective for your design, much of your process will be unguided. When I look at your output, I will consider them _within the context of your design goal_. If your goal is to provide a sense of awe or provoke reflection or make someone feel like they are truly in another physical place... any of that is fine. The key is that you articulate your goal and make design decisions that align with that objective.
+- **Be sure to articulate your design goal / objective ASAP.** Without an objective for your design, much of your process will be unguided. When I look at your output, I will consider them _within the context of your design goal_. If your goal is to provide a sense of awe or provoke reflection or make someone feel like they are truly in another physical place... any of that is fine. The key is that you articulate your goal and make design decisions that align with that objective.
 - **Consider what will make your design feel immersive.** This is your primary challenge, and it's worth thinking beyond visual channels. How could audio enhance your design?
-- **Careful with interaction.** Because of time and hardware limitations (you'll be using [aframe](https://aframe.io/) + [Google cardboard](https://vr.google.com/cardboard/)), consider what input mechanisms you may even have available to you before getting too deep into the development.
+- **Careful with interaction.** Because of time and hardware limitations (you'll be using [aframe](https://aframe.io/), consider what input mechanisms you may even have available to you before getting too deep into the development.
 
 ### Deliverables
-- As always: Your design reflection as a Medium blog post. **You WILL need a demo video**.
+- As always: Your design reflection, as a Medium blog post, **written as a group**. You do not need individual design reflections for this assignment. **You WILL need a demo video.**.
 - Your VR experience should be publicly accessible so that others can visit it. **Include this link in your design doc.** It's fine if this is a link from [glitch](https://glitch.com/) (which is probably the easiest place to develop your work).
 
 ### Some Technical Hints: Using AFrame
@@ -28,8 +28,6 @@ A couple of quick pointers before you start:
 [A-Frame](https://aframe.io/) is a simple, web-based design platform that uses HTML to create VR scenes. In addition, a companion website - [Glitch](https://glitch.com/) - provides a fantastic web-based development environment that will allow you to see your code + output simultaneously. Although the building blocks of aframe are basic, don't underestimate its powerful potential. Before you start, [check out all of the interesting work people in the AFrame community are up to](https://aframe.io/blog/).
 
 There are a number of resources to get you up to speed - [aframe school](https://aframe.io/aframe-school), [aframe slack](https://aframevr-slack.herokuapp.com/), and various other tutorials blog posts if you simply Google _aframe_
-
-Finally, if you really want something interactive, you could explore [integrating the Leap Motion with AFrame](https://github.com/openleap/aframe-leap-hands). _Note: I HAVE NOT TRIED THIS, so it's difficult for me to gauge how difficult this integration is_
 
 #### Getting Familiar with AFrame
 _Some tips from Gabbi LaBorwit ('20)_

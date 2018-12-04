@@ -52,7 +52,12 @@ _For examples of student work, see the [CSCI379 publication](https://medium.com/
 - [Design for Wellbeing](designs/emotion_assn.html) **->** 
   - _Final Prototype Due 12/4, 5:59 PM_
   - _Design Reflection Due 12/6, 5:59 PM_ [submit](https://docs.google.com/spreadsheets/d/1RpuIJYlHO48eitI6_wFl1ue-eHDES5EnkC9fUxvFW90/edit?usp=sharing)
+- [Design for Another World](designs/vr_assn.html) **->** 
+  - _Initial Prototypes Due 12/6, 5:59 PM_
+  - _Final Prototypes Due 12/13, 5:59 PM_
+  - _Design Reflection Due 12/14, 11:59 PM_
 
+Final Project (Individual):** [Design Manifesto](docs/manifesto.html) \| _Due at 11:59 PM on 12/14 **->**  
 
 <!-- 
 - [Design for Others](designs/visual_assn.html) **->** [submit](https://docs.google.com/spreadsheets/d/1JV-dlcXFRXPoh-2ms8BZEtR_dzpDk8Sa-sTBIVfgzcU/edit#gid=304752249) \| _Demo 3/23_ \| _Doc 3/26, 11:59 PM_
